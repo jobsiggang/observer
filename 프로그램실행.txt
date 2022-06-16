@@ -1,0 +1,11 @@
+ObServer사용하기 
+
+1. Flask와 OpenCV설치
+- pip install flask
+- pip install opencv-python
+2. 실행
+- python app.py
+3. 접속
+- 옵저버  IP주소로 학생들이 접속
+
+* 외장카메라는 views/cv_views.py 파일에서 수정
